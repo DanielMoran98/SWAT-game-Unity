@@ -2,7 +2,7 @@
 
 ## About
 
-S.W.A.T is a game I developed as part of a group using the Unity engine.
+S.W.A.T is a game I developed as part of a group using the Unity engine and C#.
 
 
 
