@@ -28,6 +28,8 @@ The player is a S.W.A.T member who must stop robberies in progress across variou
 
 -Low poly art style
 
+-All assets custom-made except the weapons
+
 
 
 
