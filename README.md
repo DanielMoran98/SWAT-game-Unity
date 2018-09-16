@@ -24,6 +24,8 @@ The player is a S.W.A.T member who must stop robberies in progress across variou
 
 -Item pickups (Armor/Health/Speed boost etc)
 
+-Level timers
+
 -Realistic sounds
 
 -Low poly art style
